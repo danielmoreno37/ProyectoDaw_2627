@@ -68,7 +68,41 @@ No se añade al sistema:
 - App movil
 - Envio de datos a ERP
 
- 
+## Requisitos funcionales
+- RF01: El sistema deberá permitir a los usuarios registrarse e iniciar sesión.
+- RF02: El sistema deberá permitir crear, consultar, modificar y cerrar tickets de soporte.
+- RF03: El sistema deberá permitir consultar el estado de los tickets.
+- RF04: El sistema deberá permitir añadir mensajes o comentarios a un ticket.
+- RF05: El sistema deberá permitir adjuntar archivos a los tickets.
+- RF06: El sistema deberá permitir crear citas desde el módulo de Agenda.
+- RF07: El sistema deberá permitir que tanto el cliente como el profesional puedan agendar citas.
+- RF08: El sistema deberá permitir modificar y cancelar citas previamente creadas.
+- RF09: El sistema deberá mostrar las citas organizadas en una agenda o calendario.
+- RF10: El sistema deberá permitir consultar la disponibilidad horaria para agendar una cita.
+- RF11: El sistema deberá permitir activar o desactivar el módulo de Ticketing.
+- RF12: El sistema deberá permitir activar o desactivar el módulo de Agenda.
+- RF13: El sistema deberá mostrar únicamente los módulos que estén activos para cada usuario.
+- RF14: El sistema deberá enviar notificaciones relacionadas con la creación, modificación o cancelación de tickets y citas.
+- RF15: El sistema deberá permitir consultar un historial de tickets y citas.
 
 
+## Requisitos no funcionales
+- RNF01: La aplicación deberá disponer de una interfaz sencilla e intuitiva.
+- RNF02: La aplicación deberá adaptarse correctamente a ordenadores, tablets y dispositivos móviles (responsive).
+- RNF03: La aplicación deberá proteger los datos personales y la información de los usuarios.
+- RNF04: Las contraseñas deberán almacenarse de forma segura mediante técnicas de cifrado/hash.
+- RNF05: El sistema deberá controlar los permisos de acceso según el tipo de usuario.
+- RNF06: La aplicación deberá evitar que dos usuarios puedan reservar simultáneamente el mismo horario.
+- RNF07: Las operaciones habituales deberán ejecutarse en un tiempo de respuesta reducido.
+- RNF08: La aplicación deberá ser compatible con los principales navegadores web actuales.
+- RNF09: El sistema deberá mantener la integridad de la información almacenada.
+- RNF10: La aplicación deberá estar diseñada de forma modular para permitir añadir o modificar funcionalidades en el futuro.
+- RNF11: La interfaz deberá proporcionar una navegación clara entre los módulos de Ticketing y Agenda.
+- RNF12: El sistema deberá permitir activar o desactivar los módulos sin afectar al funcionamiento del resto de la aplicación.
 
+
+## Tecnologias útilizadas
+- MarkDown para la documentación
+- Visual Studio Code como IDE
+- IA
+- ...
