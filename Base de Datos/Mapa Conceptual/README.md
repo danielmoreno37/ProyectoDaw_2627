@@ -1,1 +1,1 @@
-![alt text](bd-conceptual.drawio.png)
+![alt text](mapa.jpg)
