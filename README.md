@@ -105,4 +105,5 @@ No se añade al sistema:
 - MarkDown para la documentación
 - Visual Studio Code como IDE
 - IA
+- DRAW.IO
 - ...
